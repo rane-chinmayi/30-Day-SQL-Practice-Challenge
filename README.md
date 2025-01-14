@@ -3,6 +3,7 @@
 **The Challenge:** For the next 30 days let's spend every day just solving one SQL LeetCode interview question. They are commonly used by top tech companies in their interview process to assess candidates' ability to work with databases efficiently.
 
 This ranges from basic queries like selecting records and filtering results, to more advanced tasks like performing joins, aggregations, and subqueries. Whether you’re preparing for an interview or aiming to improve your SQL proficiency, these questions will help you practice fundamental SQL concepts such as `GROUP BY`, `HAVING`, `JOIN`, `UNION`, and `RANK`.
+
 ---
 
 ## Challenge Schedule
